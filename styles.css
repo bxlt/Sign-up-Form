@@ -1,0 +1,16 @@
+#imgCol{
+    width: 30%;
+    height: 100vh;
+    float: left;
+    background-image:url('./josiah-farrow.jpg');
+    background-size: 45% auto;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    
+}
+
+#textCol{
+    width: 70%;
+    height: 100%;
+    float: left;
+}
